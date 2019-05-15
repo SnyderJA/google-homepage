@@ -1,0 +1,32 @@
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 300px;
+    width: 240px;
+    height: 80px;
+}
+
+.input{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    border-radius: 30px;
+    width: 500px;
+    height: 40px;
+}
+
+
+#outer{
+    width: 100%;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.inner{
+    display: inline;
+    font-size: 15px;
+}
+
+
